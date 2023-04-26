@@ -1,5 +1,5 @@
 # Data-Mining
-Gui of Apriori Implementation + Proposed improvements
+Gui of Apriori Implementation + Proposed min sup automatisation
 
 Kaddouri Nassim
 Zaghdar Abderrahim
